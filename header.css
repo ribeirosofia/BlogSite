@@ -4,7 +4,10 @@ h1{
    font-size: 36px;
 }
 
+ul{
+    list-style: none;
+}
+
 nav a{
     text-decoration: none;
 }
-
