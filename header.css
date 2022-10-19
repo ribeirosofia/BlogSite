@@ -4,8 +4,18 @@ h1{
    font-size: 36px;
 }
 
-ul{
+header{
+   margin: 40px 88px auto;
+}
+
+.ul-header{
     list-style: none;
+    position: absolute;
+    float: right;  
+}
+
+.li-header{
+    display: inline;    
 }
 
 nav a{

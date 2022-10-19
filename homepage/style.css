@@ -4,7 +4,7 @@ body{
 
 .grid-container{
     display: grid;
-    grid-auto-columns: 80px;
+    grid-auto-columns: 90px;
     margin-left: 88px;
     margin-right: 88px;
 }
